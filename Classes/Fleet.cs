@@ -9,8 +9,10 @@ namespace StellarisSaveParser.Classes
     {
         public int FleetId { get; set; }
         public string Name { get; set; }
-        public string Owner { get; set; }
+        public int Owner { get; set; }
         public double MilitaryPower { get; set; }
+        public int System { get; set; }
+        public List<Ship> Ships { get; set; } = new List<Ship>();
 
     }
 }
