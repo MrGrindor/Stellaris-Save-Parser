@@ -22,7 +22,9 @@ namespace StellarisSaveParser
         public void parseSave()
         {
             _saveParserContext.Database.EnsureCreated();
-            string[] saveLines = File.ReadAllLines("C:/Users/thoma/source/repos/StellarisSaveParser/StellarisSaveParser/gamestate");
+            string fileName = "gamestate";
+            string path = Path.Combine(Environment.CurrentDirectory, fileName);
+            string[] saveLines = File.ReadAllLines(path);
             int planetPos = 0;
             int galacticObjectPos = 0;
             for (int x = 0; x < saveLines.Length; x++)

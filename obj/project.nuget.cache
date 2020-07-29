@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TWmHq+Tqne4GabqUEHIMZk2zlGQtDqBW5n6JIyAdedxqVQuZKhiHLI7uEG38qhcam43S0EFRnwuZMAXao3DVOQ==",
+  "dgSpecHash": "ckUgkOXsEbjCnQ2CKEpktnF1tK5nSYLrn+qb4Xbv2hUYNUrK8lJKW4MOxbmy/GzHKiK0ThmjS2WfjR20Y/ToYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\source\\repos\\StellarisSaveParser\\StellarisSaveParser\\StellarisSaveParser.csproj",
+  "projectFilePath": "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\StellarisSaveParser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
