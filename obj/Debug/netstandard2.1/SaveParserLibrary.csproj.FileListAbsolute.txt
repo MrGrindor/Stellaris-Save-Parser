@@ -1,0 +1,9 @@
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\bin\Debug\netstandard2.1\StellarisSaveParser.deps.json
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\bin\Debug\netstandard2.1\StellarisSaveParser.dll
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\bin\Debug\netstandard2.1\StellarisSaveParser.pdb
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\obj\Debug\netstandard2.1\SaveParserLibrary.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\obj\Debug\netstandard2.1\SaveParserLibrary.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\obj\Debug\netstandard2.1\SaveParserLibrary.AssemblyInfo.cs
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\obj\Debug\netstandard2.1\SaveParserLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\obj\Debug\netstandard2.1\StellarisSaveParser.dll
+C:\Users\thoma\source\repos\SaveParserLibrary\SaveParserLibrary\obj\Debug\netstandard2.1\StellarisSaveParser.pdb
