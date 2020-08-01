@@ -4,7 +4,7 @@ using StellarisSaveParser.Context.Models;
 using System;
 using System.Collections.Generic;
 
-namespace SaveParserLibrary
+namespace StellarisSaveParser
 {
     public class Map
     {

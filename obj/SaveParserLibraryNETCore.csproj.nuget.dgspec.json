@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibrary.csproj": {}
+    "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibraryNETCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibrary.csproj": {
+    "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibraryNETCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibrary.csproj",
-        "projectName": "StellarisSaveParser",
-        "projectPath": "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibraryNETCore.csproj",
+        "projectName": "SaveParserLibrary",
+        "projectPath": "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\SaveParserLibraryNETCore.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\thoma\\OneDrive\\Dokumente\\GitHub\\Stellaris-Save-Parser\\obj\\",
         "projectStyle": "PackageReference",
